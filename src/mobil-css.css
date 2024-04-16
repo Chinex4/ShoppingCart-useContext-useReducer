@@ -1,0 +1,21 @@
+@media screen and (max-width: 450px) {
+    #main-header{
+        padding: 2.5rem 5%;
+    }
+    h1{
+        font-size: 2rem;
+    }
+    #main-title img{
+        margin-right: 0;
+    }
+    #main-header button{
+        font-size: 1rem;
+
+    }
+    #shop{
+        margin: 2rem;
+    }
+    #modal{
+        width: 75%;
+    }
+}
